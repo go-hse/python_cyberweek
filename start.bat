@@ -34,7 +34,6 @@ echo Virtual environment %VENV%\%THIS_ENV% activated and packages installed.
 
 set "line=doskey frz=pip freeze ^> requirements.txt"
 
-
 setlocal EnableDelayedExpansion
 (
 echo @echo off
