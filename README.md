@@ -2,7 +2,7 @@
 Python Kurs für die Cyberweek der Hochschule Esslingen
 
 
-### Python-Installation
+## Python-Installation
 
 Installieren Sie zunächst Python von https://www.python.org/downloads/
 
@@ -40,3 +40,37 @@ jupyter notebook password
 Git: https://git-scm.com/downloads
 VS Code: https://code.visualstudio.com/Download
 
+
+## Google Colab
+
+Colab besteht aus Zellen, die untereinander angeordnet sind.
+
+Jeweils eine Zelle kann markiert werden. 
+
+Die Zellen enthalten entweder Text im Markdown-Format oder Python-Code.
+
+### Tasten-Belegungen
+
+__Navigieren__
+- Cursor hoch/runter: Zellen auswählen
+- Ctrl-M N Next/Nächste Zeile
+- Ctrl-M P Previous/Vorherige Zeile
+
+__Ändern/Editieren__
+- Enter: ausgewählte Zelle Editieren
+
+__Ausführen__
+- Shift-Enter hervorgehobene Zelle Beenden (Markdown)
+- Ctrl-Enter hervorgehobene Zelle Ausführen (Code)
+
+__Zell-Typ Auswählen__
+- Ctrl-M Y Code
+- Ctrl-M M Markdown
+
+- Ctrl-M L Zeilennummer
+- Ctrl-M D Löschen
+- Ctrl-M H Tastenkombis
+- Ctrl-M A Oben einfügen
+- Ctrl-M B Unten einfügen
+
+- 
