@@ -43,6 +43,9 @@ VS Code: https://code.visualstudio.com/Download
 
 ## Google Colab
 
+[Link Python auf Colab](https://colab.research.google.com/github/go-hse/python_cyberweek/blob/main/01_Basics/000_Uebersicht.ipynb)
+
+
 Colab besteht aus Zellen, die untereinander angeordnet sind.
 
 Jeweils eine Zelle kann markiert werden. 
